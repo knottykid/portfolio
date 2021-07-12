@@ -1,20 +1,20 @@
 export const projects = [
   {
-    title: "Urban_Hobbies",
+    title: "Urban Hobbies",
     description:
-      "Using React, Node.js, Express & MongoDB, I created an App for People to connect with their communities by doing their favorites activities and sharing their hobbies ",
+      "Using React, Node.js, Express & MongoDB, I've builded and deployed an App for People to connect with their communities by doing their favorites activities and sharing their hobbies ",
     image: "/images/1.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://urban-hobbies.netlify.app/",
-    visit: "https://github.com/knottykid",
+    visit: "https://github.com/knottykid/URBAN_HOBBIES_CLIENT",
     id: 0,
   },
   {
-    title: "Create-Hub",
+    title: "Create Hub",
     description:
       "Created a social Web App for Creative and Artistic People. Teamed with another alumni learning the workflow of git collaboration, formulating the logic and implementing the knowledge and skills to architected, automated and deployed the backend server of the  REST API. ",
     image: "/images/2.png",
-    tags: ["Node", "Express", "Mongoose", "Axios", "Handlebars"],
+    tags: ["Node", "Express", "Mongo", "Axios", "Handlebars"],
     source: "https://create-hub.herokuapp.com/",
     visit: "https://github.com/knottykid/create-hub",
     id: 1,
