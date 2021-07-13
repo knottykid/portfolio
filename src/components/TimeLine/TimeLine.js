@@ -67,6 +67,12 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
+        <img
+          src="https://avatars.githubusercontent.com/u/73444785?v=4"
+          alt="me"
+          width="25%"
+        />
+        <br />
         I'm a junior full-stack web developer with a background in Psychology
         and a creative and systematic mindset. I love coding in JavaScript and
         understanding the logic behind it. Determined and passionate about the
