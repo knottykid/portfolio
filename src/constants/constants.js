@@ -33,7 +33,7 @@ export const projects = [
     title: "Where 2 Go",
     description:
       "Travel Advisor using RapidApi, Google Maps, React, Axios & Material UI",
-    image: "/images/4.jpg",
+    image: "/images/4.png",
     tags: ["React", "RapidApi", "Google Maps", "Axios", "Material UI"],
     source: "https://where2go.netlify.app/",
     visit: "https://github.com/knottykid/Travel_Advisor/tree/master",
