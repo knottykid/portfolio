@@ -29,16 +29,16 @@ export const projects = [
     visit: "https://github.com/knottykid/recordstoregame",
     id: 2,
   },
-  // {
-  //   title: "Unichat",
-  //   description:
-  //     "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: "/images/4.jpg",
-  //   tags: ["React", "ChatEngine", "Firebase"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 3,
-  // },
+  {
+    title: "Where 2 Go",
+    description:
+      "Travel Advisor using RapidApi, Google Maps, React, Axios & Material UI",
+    image: "/images/4.jpg",
+    tags: ["React", "RapidApi", "Google Maps", "Axios", "Material UI"],
+    source: "https://where2go.netlify.app/",
+    visit: "https://github.com/knottykid/Travel_Advisor/tree/master",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
