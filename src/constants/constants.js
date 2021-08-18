@@ -39,6 +39,17 @@ export const projects = [
     visit: "https://github.com/knottykid/Travel_Advisor/tree/master",
     id: 3,
   },
+
+  {
+    title: "Words and More",
+    description:
+      "Dictionary to find meanings and synonyms in different language, using React, DictionaryApi, Axios and Material UI",
+    image: "/images/5.png",
+    tags: ["React", "DictionaryApi", "Axios", "Material UI"],
+    source: "https://wordsandmore.netlify.app/",
+    visit: "https://github.com/knottykid/word-hunt",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
