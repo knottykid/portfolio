@@ -3,7 +3,7 @@ export const projects = [
     title: "Urban Hobbies",
     description:
       "Using React, Node.js, Express & MongoDB, I've builded and deployed an App for People to connect with their communities by doing their favorites activities and sharing their hobbies ",
-    image: "/images/1.png",
+    image: "/images/0.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://urban-hobbies.netlify.app/",
     visit: "https://github.com/knottykid/URBAN_HOBBIES_CLIENT",
