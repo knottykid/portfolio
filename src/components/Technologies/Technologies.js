@@ -48,7 +48,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Libraries & Frameworks</ListTitle>
           <ListParagraph>
-            ReactJs | Bootstrap | HandlebarsJs | Material-ui
+            ReactJs | NextJs | Bootstrap | HandlebarsJs | Material-UI
           </ListParagraph>
         </ListContainer>
       </ListItem>

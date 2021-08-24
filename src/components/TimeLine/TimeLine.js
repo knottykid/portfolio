@@ -72,12 +72,15 @@ const Timeline = () => {
           alt="me"
           width="25%"
         />
-        <br />
-        I'm a junior full-stack web developer with a background in Psychology
-        and a creative and systematic mindset. I love coding in JavaScript and
-        understanding the logic behind it. Determined and passionate about the
-        projects I'm involved. Always eager to learn new things and keep my
-        skills up to date.
+        <br />I love coding in JavaScript(ES6) using Agile Tools &
+        methodologies. Writing clean, modular & efficient code and develop
+        well-tested applications using TDD (Test Driven Development) principles.
+        Determined and passionate about the projects I'm involved. Always eager
+        to learn new things and keep my skills up to date. I'm Determined,
+        Reliable and Inquisitive. My hobbies includes Music, Biking and
+        Bouldering. My background in Psychology makes me aware of the importance
+        of being empathetic and have an analytical approach, seeing the whole
+        picture and thinking outside the box.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

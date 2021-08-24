@@ -14,10 +14,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          My Web Dev Portfolio
+          My Dev Portfolio
         </SectionTitle>
         <SectionText>
-          My Name is <b style={{ color: "red" }}>John Rosario</b>, I'm a junior
+          My Name is <b style={{ color: "red" }}>John Rosario</b>, I'm a
           full-stack developer with a background in Psychology and a creative
           and systematic mindset.
         </SectionText>
